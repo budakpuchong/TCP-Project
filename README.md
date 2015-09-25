@@ -11,7 +11,7 @@ File repository system is used for user file storage. User (Client) will connect
 User manual:
 
 1. Compile client.c and server.c (gcc filename.c -o filename)
-2. Run both files on different terminal/pc (Server.c first)
+2. Run both files on different terminal/pc (server.c must be run before client.c)
 
 
 For example:

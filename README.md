@@ -10,18 +10,18 @@ File repository system is used for user file storage. User (Client) will connect
 
 User manual:
 
-1. Compile client.c and server.c 
+1. Compile client.c and server.c (gcc filename.c -o filename)
 2. Run both files on different terminal/pc (Server.c first)
 
 
 For example:
 
 Terminal 1:
- gcc server.c -o server                         ./server portNumber
+./server portNumber
 
 
 Terminal 2:
- gcc client.c -o client                         ./client serverHostName portNumber
+ ./client serverHostName portNumber
 
 
 

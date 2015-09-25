@@ -1,5 +1,11 @@
 # TCP-Project
 
+Team Name: Budak Puchong
+
+Student Name: Elmer Yeong
+
+Student ID: 1131121734
+
 ************************************************************
 
 Development of File Repository System using Client-Server TCP/IP Model

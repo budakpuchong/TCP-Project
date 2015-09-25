@@ -12,12 +12,14 @@ User manual:
 For example:
 
 Terminal 1:
+
 gcc server.c -o server
 
 ./server <port>
 
 
 Terminal 2:
+
 gcc client.c -o client
 
 ./client <serverHostName> <port>

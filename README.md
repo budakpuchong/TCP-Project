@@ -17,13 +17,11 @@ User manual:
 For example:
 
 Terminal 1:
- gcc server.c -o server
- ./server portNumber
+ gcc server.c -o server                         ./server portNumber
 
 
 Terminal 2:
- gcc client.c -o client
- ./client serverHostName portNumber
+ gcc client.c -o client                         ./client serverHostName portNumber
 
 
 

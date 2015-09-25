@@ -15,14 +15,14 @@ Terminal 1:
 
 gcc server.c -o server
 
-./server <port>
+./server portNumber
 
 
 Terminal 2:
 
 gcc client.c -o client
 
-./client <serverHostName> <port>
+./client serverHostName portNumber
 
 
 
